@@ -1,6 +1,6 @@
 # HideHUD
 
-FiveM resource for hiding HUD elements.\
+FiveM resource for hiding HUD elements.
 
 ## Installation
 
